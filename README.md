@@ -45,7 +45,7 @@
 
 ### 🚀 Projetos em Destaque
 
----
+https://catalogo-de-cortes-studio-figuiredo-five.vercel.app/
 
 ### 📫 Fale Comigo
 
