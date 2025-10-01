@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" width="350" heigth="350" />
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/e6398827-e919-49a4-8cf4-f54ea961f0f2" /><p align="center">
+  <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSXOT1cZbsbm9zG2mKHyQKfrTMPTdLKv2gz8_goJLcI6THR66MMWVMIQS_pXDeCb2S68AVojG_DSPR1RsjgfBax7nCFqfM3P83ZirCr-Pic0I0aMAu6HS79mCRHcioKWad2qmOS_QGJFREwnXUjIhgEpD1cKGmuxZdk7-QzyC-6rIuY8A=s1024)" width="350" heigth="350" />
 </p>
 
 <p align="center">
