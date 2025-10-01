@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" width="350" heigth="350" />
+</p>
 
-<!--
-**DevCardosu/DevCardosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👋 Olá! Sou o Gustavo Cardoso estudante de Análise e Desenvolvimento de Sistemas 👋
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Análise e Desenvolvimento | Foco em Front-End e Banco de Dados
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  🌟 Sou apaixonado por resolver problemas e criar interfaces intuitivas.
+  <br>
+  💡 Gosto de aprender novas tecnologias e colaborar em projetos inovadores.
+  <br>
+  🌱 Atualmente aprimorando minhas habilidades com novas ferramentas e frameworks.
+</p>
+
+---
+
+### 💻 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
