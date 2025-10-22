@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento | Foco em Front-End e Banco de Dados
+  Estudante de Análise e Desenvolvimento | Foco em ser FullStack
 </p>
 
 ---
