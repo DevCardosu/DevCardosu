@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento | Foco em ser FullStack
+  Estudante de Análise e Desenvolvimento | Foco em ser Back-end java
 </p>
 
 ---
 
 <p align="center">
-  🌟 Sou apaixonado por resolver problemas e criar interfaces intuitivas.
+  🌟 Sou apaixonado por resolver problemas
   <br>
   💡 Gosto de aprender novas tecnologias e colaborar em projetos inovadores.
   <br>
