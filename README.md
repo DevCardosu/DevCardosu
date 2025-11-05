@@ -1,11 +1,9 @@
-
-
 <p align="center">
   👋 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas 👋
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento | Foco em ser Back-end java
+  Estudante de Análise e Desenvolvimento | Foco em ser Back-end Java
 </p>
 
 ---
@@ -23,6 +21,8 @@
 ### 💻 Linguagens e Tecnologias
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -37,16 +37,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-https://catalogo-de-cortes-studio-figuiredo-five.vercel.app/
+🔗 [Catálogo de Cortes Studio Figuiredo](https://catalogo-de-cortes-studio-figuiredo-five.vercel.app/)
+
+---
 
 ### 📫 Fale Comigo
 
 <p align="center">
-  <a href="mailto:gustavocardosodot@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:gustavocardosodot@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
