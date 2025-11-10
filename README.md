@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento | Foco em ser Back-end Java
+  Técnico em desenvolvimento de sistemas | Foco em ser FullStack
 </p>
 
 ---
