@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas 👋
+  👋 Olá! Sou um estudante de Programação 👋
 </p>
 
 <p align="center">
