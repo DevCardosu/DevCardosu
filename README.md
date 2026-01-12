@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudante_de_Programação-54ac59?style=for-the-badge" />
+  Desenvolvedor Full Stack Júnior | Node.js & React
 </p>
 
 <h1 align="center">👋 Olá! Sou o Gustavo João Cardoso</h1>
@@ -7,7 +7,7 @@
 <p align="center">
   🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  | 🚀 <strong>Desenvolvedor Full-Stack</strong>
   <br>
-  Focado em criar soluções eficientes e escaláveis usando as melhores práticas de mercado.
+  Construo aplicações full stack com Node.js, PostgreSQL e React, focando em APIs seguras, código limpo e projetos reais para pequenos negócios.
 </p>
 
 <p align="center">
