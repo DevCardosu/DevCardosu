@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá! Sou o Gustavo João Cardoso</h1>
 
 <p align="center">
-  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  |  <strong>Desenvolvedor Full Stack Júnior</strong>
+   <strong>Análise e Desenvolvimento de Sistemas</strong>  |  <strong>Desenvolvedor Full Stack </strong>
   <br>
   Construo aplicações full stack com Node.js, PostgreSQL e React, focando em APIs seguras, código limpo e projetos reais para pequenos negócios.
 </p>
