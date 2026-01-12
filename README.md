@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://vercel.com/devcardosus-projects/gustavo-cardoso-portfolio](https://gustavo-cardoso-portfolio.vercel.app/)" target="_blank">
+  <a href="https://gustavo-cardoso-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-03484c?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
