@@ -20,7 +20,7 @@
 
 ### 💡 Sobre Mim
 * 🔧 Experiência prática com projetos reais como **freelancer** (Barbearias e Lanchonetes).
-* 🧠 Desenvolvedor do **TechShop MVP**, um e-commerce completo com foco em segurança e banco de dados.
+* 🧠 Desenvolvedor do TechShop MVP, e-commerce full stack com autenticação JWT, controle de usuários, produtos e pedidos, seguindo arquitetura REST.
 * 🌱 Atualmente mergulhando no ecossistema **Node.js, TypeScript e React Native**.
 * ☕ Entusiasta de **Java** e lógica de programação estruturada.
 
