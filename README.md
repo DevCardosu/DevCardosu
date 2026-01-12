@@ -1,5 +1,5 @@
 <p align="center">
-  Desenvolvedor Full Stack Júnior | Node.js & React
+  Desenvolvedor Full Stack | Node.js & React
 </p>
 
 <h1 align="center">👋 Olá! Sou o Gustavo João Cardoso</h1>
