@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🎓 Técnico em Desenvolvimento de Sistemas | 🚀 Foco em Full-Stack
+  🎓 Análise e Desenvolvimento de Sistemas | 🚀 Foco em Full-Stack
 </p>
 
 ---
