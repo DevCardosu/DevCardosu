@@ -2,7 +2,7 @@
   Desenvolvedor Full Stack | Node.js & React
 </p>
 
-<h1 align="center">👋 Olá! Sou o Gustavo João Cardoso</h1>
+<h1 align="center">Olá! Sou o Gustavo João Cardoso</h1>
 
 <p align="center">
    <strong>Análise e Desenvolvimento de Sistemas</strong>  |  <strong>Desenvolvedor Full Stack </strong>
