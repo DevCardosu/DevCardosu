@@ -18,15 +18,14 @@
 
 ---
 
-### 💡 Sobre Mim
-* 🔧 Experiência prática com projetos reais como **freelancer** (Barbearias e Lanchonetes).
-* 🧠 Desenvolvedor do TechShop MVP, e-commerce full stack com autenticação JWT, controle de usuários, produtos e pedidos, seguindo arquitetura REST.
-* 🌱 Atualmente mergulhando no ecossistema **Node.js, TypeScript e React Native**.
-* ☕ Em aprendizado em Java, com foco em lógica, POO e backend.
+###  Sobre Mim
+*  Experiência prática com projetos reais como **freelancer** (Barbearias e Lanchonetes).
+*  Desenvolvedor do TechShop MVP, e-commerce full stack com autenticação JWT, controle de usuários, produtos e pedidos, seguindo arquitetura REST.
+*  Atualmente mergulhando no ecossistema **Node.js, TypeScript e React Native**.
 
 ---
 
-### 💻 Stack Principal
+###  Stack Principal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -37,7 +36,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 📖 Em aprendizado
+###  Em aprendizado
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -47,15 +46,15 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
-* 🛒 **TechShop MVP — E-commerce Full Stack**
+*  **TechShop MVP — E-commerce Full Stack**
   Backend robusto com Node.js, PostgreSQL e autenticação JWT. 
-* 💈 **[Catálogo de Cortes – Studio Figueiredo](https://catalogo-de-cortes-studio-figuiredo-five.vercel.app/)**
+*  **[Catálogo de Cortes – Studio Figueiredo](https://catalogo-de-cortes-studio-figuiredo-five.vercel.app/)**
   Landing page profissional desenvolvida para cliente real.
-* 📱 **Recipe App — React Native**
+*  **Recipe App — React Native**
   Aplicação mobile para organização de receitas e foco em UX.
-* 🔐 **Password Generator**
+*  **Password Generator**
   Ferramenta de segurança com lógica avançada em JavaScript puro.
 
 ---
