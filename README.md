@@ -63,7 +63,7 @@
   <a href="mailto:gustavocardosodot@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/SEUNUMERO">
+  <a href="https://wa.me/48992045316">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
 </p>
