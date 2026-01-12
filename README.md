@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá! Sou o Gustavo João Cardoso</h1>
 
 <p align="center">
-  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  | 🚀 <strong>Futuro Desenvolvedor Full-Stack</strong>
+  🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  | 🚀 <strong>Desenvolvedor Full-Stack</strong>
   <br>
   Focado em criar soluções eficientes e escaláveis usando as melhores práticas de mercado.
 </p>
